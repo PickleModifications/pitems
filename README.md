@@ -11,6 +11,15 @@ With this resource, you will be able to use the following:
 - Props & Animations while idling, performing, or exiting usage.
 - Add effects that are reusable & modular.
 
+## What do I need?
+
+You will need the following for this script to work.
+
+- ESX Legacy (1.5+)
+- Ox Inventory
+
+If you want to make a fork that adds support to other frameworks (which should be easy), feel free as long as you credit me.
+
 ## What are some examples of items that need this?
 
 Some items that would for sure need a system like this are the following:
